@@ -1,5 +1,5 @@
 /*
- * Create a list that holds all of your cards
+ * Create a list that holds your cards
  */
 
 const allCards = ["fa fa-paper-plane-o", "fa fa-paper-plane-o", "fa fa-diamond", "fa fa-diamond",
